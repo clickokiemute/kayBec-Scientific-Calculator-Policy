@@ -3,13 +3,11 @@
     <head>
       <meta charset='utf-8'>
       <meta name='viewport' content='width=device-width'>
-        
-      <title>Privacy Policy</title>
+              <title>Privacy Policy</title>
       <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } </style>
     </head>
     <body>
-    
-    <strong>Privacy Policy</strong> <p>
+        <strong>Privacy Policy</strong> <p>
                   Kay built the KayBec Scientific Calculator app as
                   a Free app. This SERVICE is provided by
                   Kay at no cost and is intended for use as
