@@ -31,7 +31,7 @@
                   </p> <p>
                     Link to privacy policy of third party service providers used
                     by the app
-                  </p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank">Google Play Services</a></li><li><a href="https://support.google.com/admob/answer/6128543?hl=en" target="_blank">AdMob</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></div> <p><strong>Log Data</strong></p> <p>
+                  </p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank">Google Play Services</a></li><li><a href="https://support.google.com/admob/answer/6128543?hl=en" target="_blank">AdMob</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></div> <br /><br /><p><strong>Log Data</strong></p> <p>
                   I want to inform you that whenever you
                   use my Service, in a case of an error in the app
                   I collect data and information (through third party
@@ -40,12 +40,12 @@
                   (“IP”) address, device name, operating system version, the
                   configuration of the app when utilizing my Service,
                   the time and date of your use of the Service, and other
-                  statistics.
+                  statistics.<br /><br />
                 </p> <p><strong>Cookies</strong></p> <p>
                   Cookies are files with a small amount of data that are
                   commonly used as anonymous unique identifiers. These are sent
                   to your browser from the websites that you visit and are
-                  stored on your device's internal memory.
+                  stored on your device's internal memory.<br />
                 </p> <p>
                   This Service does not use these “cookies” explicitly. However,
                   the app may use third party code and libraries that use
@@ -53,7 +53,7 @@
                   You have the option to either accept or refuse these cookies
                   and know when a cookie is being sent to your device. If you
                   choose to refuse our cookies, you may not be able to use some
-                  portions of this Service.
+                  portions of this Service.<br /><br />
                 </p> <p><strong>Service Providers</strong></p> <p>
                   I may employ third-party companies and
                   individuals due to the following reasons:
@@ -62,17 +62,17 @@
                   that these third parties have access to your Personal
                   Information. The reason is to perform the tasks assigned to
                   them on our behalf. However, they are obligated not to
-                  disclose or use the information for any other purpose.
+                  disclose or use the information for any other purpose.<br /><br />
                 </p> <p><strong>Security</strong></p> <p>
                   I value your trust in providing us your
                   Personal Information, thus we are striving to use commercially
                   acceptable means of protecting it. But remember that no method
                   of transmission over the internet, or method of electronic
                   storage is 100% secure and reliable, and I cannot
-                  guarantee its absolute security.
+                  guarantee its absolute security.<br /><br />
                 </p> <p><strong>Links to Other Sites</strong></p> <p>
                   This Service does not contain links to other sites or
-                  services.
+                  services.<br /><br />
                 </p> <p><strong>Children’s Privacy</strong></p> <p>
                   These Services do not address anyone under the age of 13.
                   I do not knowingly collect personally
@@ -82,16 +82,16 @@
                   delete this from our servers. If you are a parent or guardian
                   and you are aware that your child has provided us with
                   personal information, please contact me so that
-                  I will be able to do necessary actions.
+                  I will be able to do necessary actions.<br /><br />
                 </p> <p><strong>Changes to This Privacy Policy</strong></p> <p>
                   I may update our Privacy Policy from
                   time to time. Thus, you are advised to review this page
                   periodically for any changes. I will
                   notify you of any changes by posting the new Privacy Policy on
-                  this page.
+                  this page.<br /><br />
                 </p> <p>This policy is effective as of 2020-07-18</p> <p><strong>Contact Us</strong></p> <p>
                   If you have any questions or suggestions about my
-                  Privacy Policy, do not hesitate to contact me at Warri, Delta State, Nigeria.
+                  Privacy Policy, do not hesitate to contact me at Warri, Delta State, Nigeria.<br /><br />
                 </p> <p>
                   This privacy policy page was created at
                   <a href="https://privacypolicytemplate.net" target="_blank">privacypolicytemplate.net</a>
